@@ -3,6 +3,8 @@
 聚焦中国 AI 知识产权领域的真实判例与司法规则，强调**真实、可核验、结构化、可复用**。
 每个案例都附带核验路径，所有结论可追溯到权威来源。
 
+**在线访问**：<https://ianxu0328.github.io/china-ai-ip-verification/> · [46 秒推荐片](https://ianxu0328.github.io/china-ai-ip-verification/video.html)
+
 ## 项目定位
 
 - 不是简单的案例搬运，而是「人机协同」工作流产出的结构化知识库；
@@ -31,6 +33,9 @@
 ├── CODE_OF_CONDUCT.md
 ├── CHANGELOG.md
 ├── hallucination-log.md
+├── index.html          # 推荐 / 介绍页（GitHub Pages 首页）
+├── video.html          # 46 秒推荐片播放页
+├── assets/             # 视频与封面图
 ├── cases/
 ├── rules/
 ├── tools/

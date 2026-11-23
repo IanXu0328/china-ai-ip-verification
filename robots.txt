@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ianxu0328.github.io/china-ai-ip-verification/sitemap.xml
